@@ -1,4 +1,11 @@
+
 ### Destinator - Application Deployment 1 - 1509
+
+![Sizesable](/logo.png)
+
+---
+
+### Description
 
 This repo holds the source code of Destinator application project project for the Application Deployment 1 class of the Mobile Development degree at Full Sail University.
 
@@ -26,7 +33,7 @@ The following statement applies to all entities and to any person that has acces
 
 ---
 
-### Info:
+### Info :information_source: :
 
 Term: 1509  
 Instructor: Patricia Korn  
