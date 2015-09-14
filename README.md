@@ -33,7 +33,7 @@ Instructor: Patricia Korn
 Class Project: Destinator App  
 Class: Application Deployment 1  
 Project Website: Not available yet...  
-Student: [Christopher Gonzalez](https://my.orgsync.com/gchriswill) D.K.A   [@gchriswill](https://twitter.com/gchriswill)  
+Student: [Christopher Gonzalez](https://my.orgsync.com/gchriswill) D.K.A [@gchriswill](https://twitter.com/gchriswill)  
 Program: [Mobile Development B.S. (MDVBS)](http://www.fullsail.edu/degrees/campus/mobile-development-bachelors)  
 Institution: [Full Sail university](http://www.fullsail.edu)  
 
